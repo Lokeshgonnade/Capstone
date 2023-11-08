@@ -1,0 +1,72 @@
+export const featureProductNav = [
+    {
+        id : "featureProductNav_1",
+        img : "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/f7aacf23b793d4ba.jpg?q=100",
+        name : "Grocery",
+        link : "https://www.flipkart.com/grocery-supermart-store?marketplace=GROCERY&fm=neo%2Fmerchandising&iid=M_5d01e2ff-1e97-4e28-a959-65e520953682_1_FBB4FBSRQIC6_MC.4BYE6NISISOE&otracker=hp_rich_navigation_10_1.navigationCard.RICH_NAVIGATION_Grocery_4BYE6NISISOE&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_10_L0_view-all&cid=4BYE6NISISOE",
+        subNavigation : false,
+    },
+    {
+        id : "featureProductNav_2",
+        img : "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/20e8d27f8c49a312.jpg?q=100",
+        name : "Mobiles&Tablet",
+        link : "https://www.flipkart.com/mobile-phones-big-dussehra-sale-2023-2bc-store?fm=neo%2Fmerchandising&iid=M_b0ec7017-57f9-4fa3-9c06-21b128439cc1_1_FBB4FBSRQIC6_MC.BYIXDBQAWBHQ&otracker=hp_rich_navigation_2_1.navigationCard.RICH_NAVIGATION_Mobiles%2B%2526%2BTablets_BYIXDBQAWBHQ&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_2_L0_view-all&cid=BYIXDBQAWBHQ",
+        subNavigation : false,
+    },
+    {
+        id : "featureProductNav_3",
+        img : "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/9d6cf33034f3ad5d.jpg?q=100",
+        name : "Fashion",
+        link : "https://www.flipkart.com/fashion-bds2-23-sale-store?fm=neo%2Fmerchandising&iid=M_d5334e0c-2a95-4290-a66c-085e0405e28e_1_FBB4FBSRQIC6_MC.CPZ5PBSAJQKR&otracker=hp_rich_navigation_5_1.navigationCard.RICH_NAVIGATION_Fashion_CPZ5PBSAJQKR&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_5_L0_view-all&cid=CPZ5PBSAJQKR",
+        subNavigation : true,
+    },
+    {
+        id : "featureProductNav_4",
+        img : "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/9015804c95cf223d.jpg?q=100",
+        name : "Electronics",
+        link : "https://www.flipkart.com/flipkart-elec-big-diwali-sale-store?fm=neo%2Fmerchandising&iid=M_c4929fc2-26fb-493e-b3e0-bf8f905d4089_1_FBB4FBSRQIC6_MC.8TVKUWT87M16&otracker=hp_rich_navigation_3_1.navigationCard.RICH_NAVIGATION_Electronics_8TVKUWT87M16&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_3_L0_view-all&cid=8TVKUWT87M16",
+        subNavigation : true,
+    },
+    {
+        id : "featureProductNav_5",
+        img : "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/7271d36081369b1b.jpg?q=100",
+        name : "Home&Kitchen",
+        link : "https://www.flipkart.com/homebdssale23-store?fm=neo%2Fmerchandising&iid=M_66911007-791d-4409-a1a0-cde7451138ce_1_FBB4FBSRQIC6_MC.IF1WVE47NIXO&otracker=hp_rich_navigation_7_1.navigationCard.RICH_NAVIGATION_Home%2B%2526%2BKitchen_IF1WVE47NIXO&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_7_L0_view-all&cid=IF1WVE47NIXO",
+        subNavigation : true,
+    },
+    {
+        id : "featureProductNav_6",
+        img : "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/9536c6d9d8d6f214.jpg?q=100",
+        name : "Appliances",
+        link : "https://www.flipkart.com/tvs-appliances-the-big-diwali-sale-store?fm=neo%2Fmerchandising&iid=M_3ee8617c-be5a-4504-a892-25fac3f97e1e_1_FBB4FBSRQIC6_MC.KCBBC8GGWR9V&otracker=hp_rich_navigation_4_1.navigationCard.RICH_NAVIGATION_TVs%2B%2526%2BAppliances_KCBBC8GGWR9V&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_4_L0_view-all&cid=KCBBC8GGWR9V",
+        subNavigation : true,
+    },
+    {
+        id : "featureProductNav_7",
+        img : "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/b8311f23380fbeb1.jpg?q=100",
+        name : "Flight",
+        link : "https://www.flipkart.com/travel/flights?param=FKHPDefaultNavTravelBDSNov23&fm=neo%2Fmerchandising&iid=M_0313ed7f-f127-47f7-8040-3e71cc408ca1_1_FBB4FBSRQIC6_MC.9ODHZCZ094O6&otracker=hp_rich_navigation_9_1.navigationCard.RICH_NAVIGATION_Flights_9ODHZCZ094O6&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_9_L0_view-all&cid=9ODHZCZ094O6",
+        subNavigation : false,
+    },
+    {
+        id : "featureProductNav_8",
+        img : "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/bfcdffe68a4a77e6.jpg?q=100",
+        name : "Top Offers",
+        link : "https://www.flipkart.com/offers-store?param=98574&fm=neo%2Fmerchandising&iid=M_ad83854f-f30a-43f3-bbe5-6679a00babf7_1_FBB4FBSRQIC6_MC.6OPAW1HHJZFH&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Top%2BOffers_6OPAW1HHJZFH&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L0_view-all&cid=6OPAW1HHJZFH",
+        subNavigation : false,
+    },
+    {
+        id : "featureProductNav_9",
+        img : "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/3a99ad45162dae20.jpg?q=100",
+        name : "Beauty",
+        link : "https://www.flipkart.com/big-sale23-store?fm=neo%2Fmerchandising&iid=M_87b2ad77-8214-42e7-a7f6-269afbf3a809_1_FBB4FBSRQIC6_MC.3HG9V6MXYB5P&otracker=hp_rich_navigation_6_1.navigationCard.RICH_NAVIGATION_Beauty_3HG9V6MXYB5P&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_6_L0_view-all&cid=3HG9V6MXYB5P",
+        subNavigation : true,
+    },
+    {
+        id : "featureProductNav_9",
+        img : "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/f8f98743e2ad89f6.jpg?q=100",
+        name : "Furniture",
+        link : "https://www.flipkart.com/bigdussheresale-store?fm=neo%2Fmerchandising&iid=M_94a9ef05-8125-4663-8f73-496593dba1ce_1_FBB4FBSRQIC6_MC.DF4ISSCHXW05&otracker=hp_rich_navigation_8_1.navigationCard.RICH_NAVIGATION_Furniture_DF4ISSCHXW05&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_8_L0_view-all&cid=DF4ISSCHXW05",
+        subNavigation : true,
+    }
+]
